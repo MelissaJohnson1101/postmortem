@@ -1,0 +1,47 @@
+Overview of React.spa Project:
+
+I worked as a two person team (Katherine). We worked primarily on Friday and Monday. THe weekend, for me, was spent reviewing much of the content we have gone over so far including basic Javascript through obejects, as well as interview questions, resume prep and LinkedIn profile.
+
+As I reviewd JS through online resources, I was pleased to see that I had actually retained much of what we have learned so far. And also became aware that I need more work with objects, looping through objects in arrays and constructor functions.
+
+I could also use more around react, when to use react vs node, props, states and overall functionaility, but working witht this React.spa with a partner was really good to see how other people *think through* each problem and I picked up a lot from that experience.
+
+Nothing feels *out of reach* because with time, space and practice, I think I'll be able to absorb much of what I don't get. Maybe one thing that feels out of reach at the moment would be completing the final project independantly (sp). I am not confident enough right now that I can get it working without assistance.
+
+1.1.	What things did you think went well on the project? Our working as a team was very successful. We problem solved well together. I may not have known the exact code and syntax to write but could conceptualize the problem and solution. Her strength was really knowing how the pieces worked together which was my weakness.
+
+1.2.	What was the single most frustrating part of the project? For me, it was not remembering how all of the pieces fit together. Such as which parts were node, which part were react and what each file's role was specifically.
+
+Another frustration is not being able to focus in the classroom while others are working and talking. Or when after leaving, being interupted with chit-chat.
+
+1.3.	How would you do things differently next time to avoid this frustration? This will be avoided in the future when there is time to actually sit with the project and plan out the way *my* brain needs (i.e. white board and color markers :)) to and struggle through the problem.
+
+And will have a quiet space to focus.
+
+task one: * Create Multiple Users, and store the username along with each message.
+
+Success #1
+
+We accoomplished task 1. We were able to get allow multiple users and store their names as a txt file. We could have done this as a JSON file, but an early confusion about the JSON file needing all strings. We learned this lesson and could now accomplish this as a JSON file for storage.
+
+task two: * Make an "Add User" page and allow new users to register for the app. + * Store both messages and users. 
+
+Success #2
+
+Adding the add user page was a success. Not sure how elaborate the user registration experience should have been. And as mentioned above we were not only able to store user info, but also display (and store) the messages associated with the user.
+
+task three: * Create Multiple Channels, and allow the user to select which "channels" they want to view. 
+
+We did not get to this on Friday or Monday due to lack of in class time. As the weekend was reserved for review and Mother's Day. :)
+
+   * What concepts from this project do you now feel like you really know?
+        I know better how the file structure works. But it's all still pretty fuzzy.
+        
+   * What concepts are still somewhat fuzzy for you?
+        How to know where to create and call the functions
+        
+   * What concepts seem like they're still out of reach?
+        Decifering the differences in the way the code is written in node vs react vs js and those nuances. And how they might cause conflicts when trying to connect. AND also trouble shooting issues when there isn't support around to aks to help debug.
+   
+
+
